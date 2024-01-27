@@ -1,0 +1,29 @@
+.website-logo {
+    font-family: var(--raleway-font);
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--primary-brand);
+    /* hw3 */
+    margin-right: 76px;
+}
+.footer {
+    font-family: var(--raleway-font);
+    background-color: var(--dark);
+    /* hw3 */
+    padding: 100px 0;
+    display: flex;
+}
+
+.logo-color-footer {
+    color: var(--light);
+}
+.footer {
+    font-family: var(--raleway-font);
+    background-color: var(--dark);
+    /* hw3 */
+    padding: 100px 0;
+    display: flex;
+}
