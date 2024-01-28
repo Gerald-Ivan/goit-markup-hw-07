@@ -1074,6 +1074,11 @@ li {
     .customer-item {
       flex-basis: calc(100% / 2 - 24px);
     }
+    .portfolio-card{
+ 
+      flex-basis: calc(100% / 1 - 24px);
+    }
+
 
 }
 
